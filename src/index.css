@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Body Bg color */
+body {
+  background-color: #737373;
+  height: 100vh;
+}
